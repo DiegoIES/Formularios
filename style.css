@@ -16,3 +16,10 @@
 .texto1{
     color: rgb(97, 93, 93);
 }
+
+.tam{
+    /* padding-left: 1500px; */
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
